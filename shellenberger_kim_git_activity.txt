@@ -1,0 +1,21 @@
+*   59e0cd0 (HEAD -> main) Merge feature/project-structure into main
+|\  
+| * 450b0ab (feature/project-structure) Add initial project directory structure with placeholder files
+|/  
+* 2f42cc0 (origin/main, origin/HEAD) Initial commit
+
+===== REPOSITORY STRUCTURE =====
+.
+./tests
+./docs
+./README.md
+./.gitignore
+./data
+./notebooks
+./shellenberger_kim_git_activity.txt
+./src
+./tests/__init__.py
+./docs/README.md
+./data/.gitkeep
+./notebooks/example.ipynb
+./src/__init__.py
